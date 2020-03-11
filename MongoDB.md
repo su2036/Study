@@ -14,7 +14,7 @@ ex) ```> use testdb  > (testdb)> db.dropDatabase()```
 
 
 ## 2. Collection (=mysql에서 Table과 동일)
-###2-1. 생성
+### 2-1. 생성
 > `db.createCollection(name, [optinons])` = 컬렉션 생성, name은 컬랙션이름/options은 document 타입
 - Options 객체의 속성
 - capped : Boolean타입, 이 값을 true로 설정하면, capped collection을 활성화 시킴.
