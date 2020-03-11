@@ -42,7 +42,7 @@ max : 10000
 > `db.컬렉션명.drop()` = 해당 컬렉션 삭제
 
 ### 2-4. 유틸(컬렉션명 변경)
-> `db.기존컬렉션명.renameCollection("newCollectionName") 
+> `db.기존컬렉션명.renameCollection("newCollectionName")`
 
 
 ## 3. Document
