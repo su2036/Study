@@ -9,6 +9,7 @@
 
 ### 1-3. 제거
 > `db.dropDatabase()` = 현재 위치가 삭제하려는 DB를 use로 사용하는 상태에서 실행해야되는 명령어
+
 ```ex) > use testdb  > (testdb)> db.dropDatabase()```
 
 
